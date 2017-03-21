@@ -1,3 +1,35 @@
 img {
   display: none;
 }
+
+.black-background {
+  background-color: black;
+}
+
+.gray-background {
+  background-color: gray;
+}
+
+.blue-background {
+  background-color: blue;
+}
+
+.white-text {
+  color: white;
+}
+
+.purple-text {
+  color: purple;
+}
+
+.pink-text {
+  color: pink;
+}
+
+.highlight {
+  color: #39b257;
+}
+
+.box {
+  border: 20px solid;
+}
